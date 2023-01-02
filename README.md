@@ -27,7 +27,7 @@ A simple application for managing and viewing quotes.
 
 ## Authors
 
-- Chayan Nath - [Your Github Profile](https://github.com/ChayanNath)
+- [Chayan Nath](https://github.com/ChayanNath)
 
 ## License
 
