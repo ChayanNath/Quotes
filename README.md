@@ -2,6 +2,8 @@
 
 A simple application for managing and viewing quotes.
 
+- [Demo](https://your-quotes-app.netlify.app)
+
 ## Features
 
 - Add a new quote
